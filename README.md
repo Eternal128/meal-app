@@ -60,3 +60,6 @@ Built with **Flutter**, it delivers a **smooth cross-platform experience** with 
 ```bash
 git clone https://github.com/yourusername/meal-app.git
 cd meal-app
+
+```bash
+flutter run
